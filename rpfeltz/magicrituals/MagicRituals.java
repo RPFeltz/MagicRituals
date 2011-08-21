@@ -68,7 +68,7 @@ public class MagicRituals extends JavaPlugin {
         pdfFile = this.getDescription();
         PluginName = pdfFile.getName();
         
-        // Credit to BlockBuilder900 for the phrases.
+        // Credit to BloxBuilder900 for the phrases.
         String[] PetHurtByOwnerMessages =  {"Ow...", "That hurts!", "Hey!",
             "Owch!", "Please stop!", "You know it hurts?",
             "Did I do anything bad to you? Please forgive me if so!",
